@@ -1,0 +1,20 @@
+h1 			{text-align: center;
+			 color: b20044;
+			 top: 50%;
+			 left: 50%;
+			 transform: translateX(-50%) translateY(-50%);
+			 position: relative;
+			 padding: 0;
+			 margin: 0;
+			 display: inline-block;
+			 background-color: ff2b9b;}
+
+
+p 			{ext-align: justify;
+			color: de368d;}
+			
+body 		{background-color: 2a3d73;}
+
+img 		{top: 0%;
+ 	 	     left: 0%;
+ 	 	 	 background-repeat: repeat;}
